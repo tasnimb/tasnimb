@@ -8,9 +8,9 @@
 - - 👯 I’m looking to collaborate on ...
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a Get Into Tech Course for women run by Sky
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Python
-- 🤔 I’m looking for help with JavaScript and Python
+- 🔭 I’m a software engineer
+- 🌱 I’m currently learning Java
+- 🤔 I’m looking for help with Java
 - 📫 How to reach me: tasnim.b98@gmail.com
 - 😄 Pronouns: She/Her
 
